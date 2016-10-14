@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="143" started-at="2016-10-14T18:15:55Z" finished-at="2016-10-14T18:15:56Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="143" started-at="2016-10-14T18:15:55Z" finished-at="2016-10-14T18:15:56Z">
+      <class name="MyMethodsTest">
+        <test-method status="PASS" signature="testAdd1()[pri:0, instance:testAdd1(MyMethodsTest)]" name="testAdd1" duration-ms="9" started-at="2016-10-14T20:15:56Z" finished-at="2016-10-14T20:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd1 -->
+        <test-method status="PASS" signature="testAdd2()[pri:0, instance:testAdd2(MyMethodsTest)]" name="testAdd2" duration-ms="0" started-at="2016-10-14T20:15:56Z" finished-at="2016-10-14T20:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd2 -->
+        <test-method status="PASS" signature="testAdd3()[pri:0, instance:testAdd3(MyMethodsTest)]" name="testAdd3" duration-ms="0" started-at="2016-10-14T20:15:56Z" finished-at="2016-10-14T20:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd3 -->
+      </class> <!-- MyMethodsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
